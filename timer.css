@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 25px;
+    font-weight: 500;
+    color: black;
+}
+body{
+    background: linear-gradient(rgba(145, 200, 252),rgba(145, 200, 252));
+}
+.c1{
+    text-align: center;
+    background-color: transparent;
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5));
+    margin-top: 10px;
+    margin-left: 25%;
+    padding: 5%;
+    width: 45%;
+    border-radius: 30px;
+}
+.c1 input{
+    padding: 4px;
+    background-color: bisque;
+    color: black;
+}
+.c2{
+    text-align: center;
+    background-color: transparent;
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5));
+    width: 45%;
+    border-radius: 30px;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding: 2%;
+}
